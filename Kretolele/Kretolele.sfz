@@ -17,6 +17,7 @@ ampeg_release=0.480
 
 <group>
 lovel=0
+
 hivel=127
 
 seq_length=5
@@ -113,7 +114,6 @@ seq_position=3
 <group>
 lovel=0
 hivel=127
-
 seq_length=5
 seq_position=4
 
